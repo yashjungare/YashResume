@@ -1,4 +1,6 @@
-# Yash Raju Jungare — Resume
+# YashResume
+
+## Yash Raju Jungare — Resume
 
 A static, responsive resume website built with HTML and CSS. Resume text is present in the initial HTML document, so the page remains readable without JavaScript. The source PDF is not included in this website because it contains private contact information.
 
