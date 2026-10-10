@@ -1,0 +1,19 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and temporary files
+.vscode/
+*.swp
+*.tmp
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and build output (not needed for this static site)
+node_modules/
+dist/
+.vercel/
